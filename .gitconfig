@@ -114,4 +114,9 @@
 [stash]
 	showPatch = true
 [log]
-	date = relative
+        date = relative
+
+[user]
+        name = Gary Martellino
+        email = gary.martellino@automationanywhere.com
+
